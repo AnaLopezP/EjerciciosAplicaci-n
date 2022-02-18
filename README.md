@@ -18,3 +18,6 @@ Precondiciones:
   dinero_sacado ≥ 0
   dinero_transferido ≥ 0
   fechas_entrada ≥ 0
+  
+Realizacion:
+
